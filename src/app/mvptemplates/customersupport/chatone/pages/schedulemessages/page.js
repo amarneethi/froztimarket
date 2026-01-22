@@ -589,7 +589,7 @@ export default function ChatOneSchedulingFlow() {
               <User className="w-4 h-4 text-violet-600" />
             </div>
             <span className="font-semibold text-slate-800">
-              Alex Smith
+              Jack Potts
             </span>
           </div>
 
@@ -1221,7 +1221,7 @@ export default function ChatOneSchedulingFlow() {
               <div className="flex items-center gap-2">
                 <div className="w-6 h-6 rounded-full bg-gradient-to-br from-orange-400 to-orange-500" />
                 <span className="text-sm font-medium text-slate-700">
-                  Alex Smith
+                  Jack Potts
                 </span>
               </div>
             </div>

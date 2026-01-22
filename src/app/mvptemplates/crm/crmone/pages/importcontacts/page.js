@@ -88,9 +88,9 @@ export default function CRMOneImportFlow() {
     {
       id: 2,
       firstName: "Jane",
-      lastName: "Smith",
+      lastName: "Potts",
       description: "Requested a demo for service B",
-      email: "jane.smith@example.com",
+      email: "jane.potts@example.com",
     },
     {
       id: 3,
@@ -286,8 +286,8 @@ export default function CRMOneImportFlow() {
     },
     {
       initials: "J",
-      name: "Jane Smith",
-      email: "jane.smith@example.com",
+      name: "Jane Potts",
+      email: "jane.potts@example.com",
       title: "Marketing Director",
       interaction: "No interactions",
     },
